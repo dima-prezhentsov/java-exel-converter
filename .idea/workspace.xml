@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a380eaa1-bfe9-4f94-a3fe-31712647e319" name="Changes" comment="feat: add result printing">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="a380eaa1-bfe9-4f94-a3fe-31712647e319" name="Changes" comment="feat: add solution using Reflection API">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/ExelEntityFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Individual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/reader/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/reader/ExcelReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/test_table.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test_table.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.java-exel-converter [:Main.main()].executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "first-task",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-exel-converter [:Main.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;first-task&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -122,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726429301807</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add solution using Reflection API">
+      <option name="closed" value="true" />
+      <created>1726793844724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726793844724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +141,7 @@
     <MESSAGE value="feat: initial commit" />
     <MESSAGE value="feat: first task" />
     <MESSAGE value="feat: add result printing" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add result printing" />
+    <MESSAGE value="feat: add solution using Reflection API" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add solution using Reflection API" />
   </component>
 </project>
